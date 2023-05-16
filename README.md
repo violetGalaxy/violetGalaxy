@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey, my name's Alex. (They/Them/Theirs) I'm currently learning Java and looking for personal project ideas. 
+My name's Alex. (They/Them/Theirs) I'm currently learning Java and looking for personal project ideas. 
 
 In my free time I enjoy rock climbing and listening to audiobooks. The next book on my TBR is Tomorrow and Tomorrow and Tomorrow. 
